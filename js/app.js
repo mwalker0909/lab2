@@ -7,13 +7,14 @@ alert( 'hello ' + userName + '! Welcome to my About Me html. Hope you enjoy it!'
 var one = prompt('Are you grading this today?');
 
 if (one.toLowerCase() === 'yes') {
-        // console.log('great! Please let me know how I did!');
+        // console.log('great! Please let me know how I did!'); 
+        // I have used the comment on this log but I did alter the other console.logs into alerts. 
         alert( 'great! Please let me know how I did!');
 }else  { 
         alert( 'Well, ' + userName + ' you are pretty great for being in this class. We should work together to make more of this cool stuff!');
 }
 
-var two = prompt('did you do the reading today?');
+var two = prompt('did you do the reading yesterday?');
 if (two.toLowerCase() === 'yes') {
         alert('Great work!');
 }   else  {
