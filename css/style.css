@@ -1,0 +1,29 @@
+h1 {
+    color: red;
+    background-color: lightcoral;
+}
+p {
+    color: green;
+    background-color: lightgreen;
+}
+.one {
+    color:blue;
+}
+.two {
+    color:green;
+}
+.three {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(73, 73, 9)
+}
+.four {
+    font-size:  1.4em;
+}
+.five {
+    border-color: bisque;
+    color: orange;
+}
+.six {
+    border-block-color: red;
+    color: brown;
+}
