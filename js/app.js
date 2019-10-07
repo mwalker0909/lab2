@@ -7,7 +7,7 @@ alert( 'hello ' + userName + '! Welcome to my About Me html. Hope you enjoy it!'
 var one = prompt('Are you grading this today?');
 
 if (one.toLowerCase() === 'yes') {
-        // console.log('great! Please let me know how I did!'); 
+        
         
         alert( 'great! Please let me know how I did!');
 }else  { 
